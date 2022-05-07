@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyycLee
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python and c
+- 🌱 I’m currently learning html,css, python and c
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 You can reach me at calgarykunhong@gmail.com
 
