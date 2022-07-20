@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning react, express, and node
 - 💞️ I’m looking to collaborate on programming projects
-- 📫 You can reach me at calgarykunhong@gmail.com
+
 - Most of my experience is with python, html, css, bootstrap, sql, javascript, and c
 
 <!---
