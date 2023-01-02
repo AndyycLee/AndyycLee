@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AndyycLee
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning react, express, and node
+- 🌱 I’m currently learning firebase, typescript, and express
 - 💞️ I’m looking to collaborate on programming projects
 
-- Most of my experience is with python, html, css, bootstrap, sql, javascript, and c
+- Most of my experience is with python, the MERN stack, typescript, firebase, supabase, and c
 
 <!---
 AndyycLee/AndyycLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
