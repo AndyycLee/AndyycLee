@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyycLee
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning firebase, typescript, and express
+- 🌱 I’m currently learning next js, trpc, and prisma :)
 - 💞️ I’m looking to collaborate on programming projects
 
 - Most of my experience is with python, the MERN stack, typescript, firebase, supabase, and c
