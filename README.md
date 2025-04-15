@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AndyycLee
 - 👀 I’m interested in software engineering, worked at AWS and TD Bank as a software engineering intern
-- 🌱 I’m currently learning next js, trpc, and prisma :)
+- 🌱 I’m currently learning next js, trpc, and gamedev/unity :)
 - 💞️ I’m looking to collaborate on programming projects, feel free to reach out! Looking for internship roles
 - andytechlee@gmail.com
 
-- Most of my experience is with python, the MERN stack, typescript, firebase, supabase, and c
+- Most of my experience is with java, C#, python, the MERN stack, typescript, firebase, supabase, and c
 
 <!---
 AndyycLee/AndyycLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
